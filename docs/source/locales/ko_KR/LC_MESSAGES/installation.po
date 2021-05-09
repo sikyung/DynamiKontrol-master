@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Taehee Lee
+# This file is distributed under the same license as the DynamiKontrol
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DynamiKontrol \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-29 16:30+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../source/installation.md:1
+msgid "Installation"
+msgstr "설치"
+
+#: ../../source/installation.md:3
+msgid "Install Python"
+msgstr "파이썬 설치"
+
+#: ../../source/installation.md:5
+msgid "First download and install Python from here:"
+msgstr "먼저 아래 링크에서 파이썬을 다운로드 받고 설치합니다"
+
+#: ../../source/installation.md:7
+msgid "https://www.python.org/downloads"
+msgstr ""
+
+#: ../../source/installation.md:9
+msgid "or use Anaconda:"
+msgstr "또는 아나콘다를 사용하여 설치합니다"
+
+#: ../../source/installation.md:11
+msgid "https://www.anaconda.com/products/individual"
+msgstr ""
+
+#: ../../source/installation.md:13
+msgid "Install DynamiKontrol Package in pip"
+msgstr "pip을 이용한 DynamiKontrol 패키지 설치"
+
+#: ../../source/installation.md:15
+msgid "To install DynamiKontrol package via pip, simply execute in terminal:"
+msgstr "pip을 이용해 DynamiKontrol 패키지를 설치하려면 터미널 창에서 아래 명령어를 입력하세요:"
+
+#: ../../source/installation.md:21
+msgid "This installs the latest version from pypi."
+msgstr "pypi에서 가장 최신 버전의 라이브러리를 설치합니다."
+
